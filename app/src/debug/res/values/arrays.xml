@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="eventsIcons">
+        <item>@drawable/ic_album</item>
+        <item>@drawable/ic_restaurant_white</item>
+        <item>@drawable/ic_work</item>
+        <item>@drawable/ic_science_tech</item>
+        <item>@drawable/ic_spa</item>
+        <item>@drawable/ic_spectacle</item>
+        <item>@drawable/ic_flight</item>
+        <item>@drawable/ic_community</item>
+        <item>@drawable/ic_fitness</item>
+        <item>@drawable/ic_eye</item>
+        <item>@drawable/ic_family</item>
+        <item>@drawable/ic_passion</item>
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_restaurant_white</item>
+        <item>@drawable/ic_religion</item>
+        <item>@drawable/ic_concert</item>
+        <item>@drawable/ic_politic</item>
+        <item>@drawable/ic_movie</item>
+        <item>@drawable/ic_location_white</item>
+    </integer-array>
+
+    <string-array name="eventsCategories">
+        <item>concerts_and_shows</item>
+        <item>gastronomy</item>
+        <item>professionnal</item>
+        <item>science_and_tech</item>
+        <item>health_and_wellbeing</item>
+        <item>performing_arts</item>
+        <item>travel_and_outdoor</item>
+        <item>community_and_cultural</item>
+        <item>sport_and_fitness</item>
+        <item>fashion_and_beauty</item>
+        <item>family_and_education</item>
+        <item>passions_and_leisure</item>
+        <item>home_and_lifestyle</item>
+        <item>charity</item>
+        <item>religion_and_spirituality</item>
+        <item>party_and_seasonal</item>
+        <item>politics_and_government</item>
+        <item>movies_and_entertainment</item>
+        <item>other</item>
+    </string-array>
+</resources>

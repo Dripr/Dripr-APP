@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Dripr</string>
+    <string name="title_home">Home</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_events">Events</string>
+
+    <!--    SplashScreen Activity-->
+    <string name="splashScreen_imageView_logoContentDescription">App Logo</string>
+
+    <!-- Login Activity -->
+    <string name="login_textView_welcomeMessage">Welcome to Dripr</string>
+    <string name="login_textView_welcomeSubMessage">Log in to continue</string>
+    <string name="login_textView_emailLabel">EMAIL</string>
+    <string name="login_textView_passwordLabel">PASSWORD</string>
+    <string name="login_button_ctaWording">L O G I N</string>
+    <string name="login_textView_notRegistered">DON\'T HAVE AN ACCOUNT?</string>
+    <!--    Content description -->
+    <string name="login_imageView_logoContentDescription">App Logo</string>
+
+    <!-- Register Activity -->
+    <string name="register_textView_welcomeMessage">Welcome to Dripr</string>
+    <string name="register_textView_welcomeSubMessage">Register to continue</string>
+    <string name="register_textView_firstNameLabel">FIRST NAME</string>
+    <string name="register_textView_lastNameLabel">LAST NAME</string>
+    <string name="register_textView_emailLabel">EMAIL</string>
+    <string name="register_textView_passwordLabel">PASSWORD</string>
+    <string name="register_button_ctaWording">R E G I S T E R</string>
+    <string name="register_textView_alreadyRegistered">ALREADY HAVE AN ACCOUNT?</string>
+    <!--    Content description -->
+    <string name="register_imageView_logoContentDescription">App Logo</string>
+
+</resources>
